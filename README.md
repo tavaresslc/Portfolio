@@ -1,6 +1,6 @@
-# Lucas Tavares - Portfolio
+# Lucas Tavares - Portifolio
 
-Este é o repositório do meu portfólio pessoal, onde apresento meus projetos em desenvolvimento, hospedagem, conta do github e currículo.
+Este é o repositório do meu portifólio pessoal, onde apresento meus projetos em desenvolvimento, hospedagem, conta do github e currículo.
 
 `CURSO` 
 
