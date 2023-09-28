@@ -8,7 +8,7 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 
 `Hospedagem`  
 
-[Portfolio](https://tavaresslc.github.io/Portfolio/)
+[Portifolio](https://tavaresslc.github.io/Portifolio/)
 
 ## Tecnologias Utilizadas
 
