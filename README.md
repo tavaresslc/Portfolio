@@ -1,6 +1,6 @@
-# Lucas Tavares - Portifolio
+# Lucas Tavares - Portfolio
 
-Este é o repositório do meu portifólio pessoal, onde apresento meus projetos em desenvolvimento, hospedagem, conta do github e currículo.
+Este é o repositório do meu portfólio pessoal, onde apresento meus projetos em desenvolvimento, hospedagem, conta do github e currículo.
 
 `CURSO` 
 
@@ -8,7 +8,7 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 
 `Hospedagem`  
 
-[Portifolio](https://tavaresslc.github.io/Portifolio/)
+[Portifolio](https://tavaresslc.github.io/Portfolio/)
 
 ## Tecnologias Utilizadas
 
